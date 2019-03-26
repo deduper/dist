@@ -90,7 +90,8 @@
         <repository>
 
             <id>deduper.dist</id>
-            <url>https://github.com/deduper/dist/tree/release/1.0.6-deduper</url>
+<!--        <url>https://github.com/deduper/dist/tree/release/1.0.6-deduper</url>-->
+            <url>https://github.com/deduper/dist/blob/release/1.0.6-deduper/</url>
 
         </repository>
 
